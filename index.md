@@ -10,7 +10,7 @@ The Chinese University of Hong Kong
 ---
 
 ## About Me
-I am a Ph.D. candidate in Computer Science and Engineering at The Chinese University of Hong Kong (CUHK), advised by Prof. Michael R. Lyu. My research focuses on **trustworthiness in Large Language Models (LLMs)**, including robustness evaluation, jailbreak risk quantification, and adversarial perturbation analysis.  
+I am a Ph.D. candidate in Computer Science and Engineering at The Chinese University of Hong Kong (CUHK). I am advised by Prof. Tsung-Yi Ho and co-supervised by Dr. Pin-Yu Chen from IBM. My research focuses on **trustworthiness in Large Language Models (LLMs)**, including robustness evaluation, jailbreak risk quantification, and adversarial perturbation analysis.  
 
 ---
 
@@ -23,8 +23,8 @@ I am a Ph.D. candidate in Computer Science and Engineering at The Chinese Univer
 ---
 
 ## News
-- **[2024-10]** Our paper *"GREAT Score: Global Robustness Evaluation of Adversarial Perturbation using Generative Models"* was accepted at **NeurIPS 2024**!  
-- **[2024-05]** Our paper *"Retention Score: Quantifying Jailbreak Risks for Vision Language Models"* was accepted at **AAAI 2025**!  
+- **[2024-09]** Our paper *"GREAT Score: Global Robustness Evaluation of Adversarial Perturbation using Generative Models"* was accepted at **NeurIPS 2024**!  
+- **[2024-12]** Our paper *"Retention Score: Quantifying Jailbreak Risks for Vision Language Models"* was accepted at **AAAI 2025**!  
 
 ---
 
